@@ -25,6 +25,7 @@
 library(tidyr)
 library(psych)
 library(rstatix)
+install.packages("ez")
 library(ez)
 library(ggplot2)
 
